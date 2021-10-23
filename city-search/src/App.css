@@ -1,0 +1,26 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-search {
+  padding-top: 20px;
+  margin: auto;
+  width: 400px;
+}
+
+.App-city-results {
+  padding-top: 10px;
+  margin: auto;
+  width: 400px;
+  border: solid grey 1px;
+  border-radius: 5px;
+}
+
+.App-city-results-header {
+  border: grey solid 1px;
+  background-color: grey;
+  
+}
